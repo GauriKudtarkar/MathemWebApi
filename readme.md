@@ -22,7 +22,6 @@ Project is divided into 3 parts.
 2. MathemWebApi : Simple apis, for generating token and to return the delivery dates
 3. DeliveryDatesGeneratorTests: Test project to cover the test cases
 
-The solution file can be found in 
 Set "MathemWebApi" project as start-up project and run. This will open up the swagger file.
 
 In the "​/api​/Account​/GetToken" method, provide username and password combination specified above, and generate the token.
