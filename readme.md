@@ -175,6 +175,31 @@ This expects a list of products.
   }
 ]
 ```
+- When duplicates products are mentioned in the product list. Duplicate product is checked by product ID.:
+ ```
+[
+  {
+    "productId": 1,
+    "name": "Banana",
+    "deliveryDays": [
+      "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
+    ],
+    "typeOfProduct": "Normal",
+    "daysInAdvance": 2,
+    "quantity": 6
+  },
+    {
+    "productId": 2,
+    "name": "Mango",
+    "deliveryDays": [
+      "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
+    ],
+    "typeOfProduct": "Normal",
+    "daysInAdvance": 1,
+    "quantity": 4
+  }
+]
+```
 
 
 
