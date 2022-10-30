@@ -189,7 +189,7 @@ This expects a list of products.
     "quantity": 6
   },
     {
-    "productId": 2,
+    "productId": 1,
     "name": "Mango",
     "deliveryDays": [
       "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
