@@ -1,0 +1,15 @@
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGeneratorUsage.exe
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGeneratorUsage.deps.json
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGeneratorUsage.runtimeconfig.json
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGeneratorUsage.dll
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGeneratorUsage.pdb
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.csproj.AssemblyReference.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.AssemblyInfoInputs.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.AssemblyInfo.cs
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.csproj.CoreCompileInputs.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.dll
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\refint\DeliveryDatesGeneratorUsage.dll
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.pdb
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGeneratorUsage.genruntimeconfig.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\ref\DeliveryDatesGeneratorUsage.dll

@@ -1,0 +1,12 @@
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGenerator.deps.json
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGenerator.dll
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\bin\Debug\net6.0\DeliveryDatesGenerator.pdb
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.csproj.AssemblyReference.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.AssemblyInfoInputs.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.AssemblyInfo.cs
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.dll
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\refint\DeliveryDatesGenerator.dll
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\DeliveryDatesGenerator.pdb
+C:\Users\gkuyh3\OneDrive - Scania CV\Personal projects\personal\Mathem\DeliveryDatesGenerator\obj\Debug\net6.0\ref\DeliveryDatesGenerator.dll

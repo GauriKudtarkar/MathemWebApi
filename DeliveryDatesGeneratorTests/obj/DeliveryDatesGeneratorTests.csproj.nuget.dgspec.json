@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGeneratorTests\\DeliveryDatesGeneratorTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGeneratorTests\\DeliveryDatesGeneratorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGeneratorTests\\DeliveryDatesGeneratorTests.csproj",
+        "projectName": "DeliveryDatesGeneratorTests",
+        "projectPath": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGeneratorTests\\DeliveryDatesGeneratorTests.csproj",
+        "packagesPath": "C:\\Users\\gkuyh3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGeneratorTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gkuyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.scania.com/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://scaniaregistry.jfrog.io/artifactory/api/nuget/v3/driverservices-nuget-virtual": {},
+          "https://scaniaregistry.jfrog.io/scaniaregistry/api/nuget/driverservices-nuget-virtual": {},
+          "https://scaniaregistry.jfrog.io/scaniaregistry/api/nuget/v3/driverservices-nuget-dev-local": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGenerator\\DeliveryDatesGenerator.csproj": {
+                "projectPath": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGenerator\\DeliveryDatesGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGenerator\\DeliveryDatesGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGenerator\\DeliveryDatesGenerator.csproj",
+        "projectName": "DeliveryDatesGenerator",
+        "projectPath": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGenerator\\DeliveryDatesGenerator.csproj",
+        "packagesPath": "C:\\Users\\gkuyh3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gkuyh3\\OneDrive - Scania CV\\Personal projects\\personal\\Mathem\\DeliveryDatesGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gkuyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.scania.com/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://scaniaregistry.jfrog.io/artifactory/api/nuget/v3/driverservices-nuget-virtual": {},
+          "https://scaniaregistry.jfrog.io/scaniaregistry/api/nuget/driverservices-nuget-virtual": {},
+          "https://scaniaregistry.jfrog.io/scaniaregistry/api/nuget/v3/driverservices-nuget-dev-local": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
