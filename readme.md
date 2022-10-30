@@ -47,9 +47,9 @@ This expects a list of products.
     "productId": 0,
     "name": "string",
     "deliveryDays": [
-      0
+      "Sunday"
     ],
-    "typeOfProduct": 0,
+    "typeOfProduct": "External",
     "daysInAdvance": 0,
     "quantity": 0
   }
