@@ -5,7 +5,7 @@ Some assumptions were made:
 2. For External category, even if "DaysInAdvance" property is present, it will not be considered for calculation of delivery dates and default value 5 will be considered for calculation as mentioned in the test.
 3. For Temporary category, the remaining number of days of the week are considered for delivery date calculation and "DaysInAdvance" field value is ignored. Eg. If user is ordering on Wednesday, then thursday to sunday , i.e. 4 days are considered as number of days before we can deliver the items.
 4. Assuming that user can not add temporary product in the cart, if one is ordering the things on Sunday. So no validation for this is added in the code.
-5. A simple JWT token implementation is done in api project. To generate the token following credentials can be used.
+5. A simple JWT token implementation is done in api project, which was not asked:). To generate the token following credentials can be used.
     1. Username: "MathemAdmin" 
 
        Password: "Mathem@9025"
